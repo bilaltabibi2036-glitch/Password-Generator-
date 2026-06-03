@@ -18,8 +18,6 @@ I'm doing the **100 Days of Code** challenge using [Dr. Angela Yu's Complete Pyt
 - `random.choice()` to pick random items
 - `random.shuffle()` to shuffle a list
 
----
-
 ## 🛠️ Project — Password Generator
 
 A command-line password generator that asks the user how many **letters**, **symbols**, and **numbers** they want, then builds a randomized, shuffled password.
